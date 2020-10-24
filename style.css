@@ -84,12 +84,13 @@
 .footer{
     background-color: grey;
     width: auto;
-    height: 100px;
+    height: 50px;
     text-align: center;
 
 }
  h4{
     padding-top: 20px;
+    color:white ;
 }
 
 /* About Section */
